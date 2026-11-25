@@ -16,14 +16,12 @@
 </h4>
 <p align="center">PROJECT ON GITLAB: https://gitlab.com/BasGame1/gta2pc</p>
 <p align="center">
-  <a href="https://gitlab.com/BasGame1/gta2pc/docs/i18n/README.md">Other languages</a> |
   <a href="https://gitlab.com/BasGame1/gta2pc#how-to-build">How to build</a> |
   <a href="https://gitlab.com/BasGame1/gta2pc#how-it-works">How it works</a> |
   <a href="https://gitlab.com/BasGame1/gta2pc#want-to-help">Want to help?</a> |
   <a href="https://gitlab.com/BasGame1/gta2pc#credits">Credits</a> |
   <a href="https://gitlab.com/BasGame1/gta2pc#license">License</a> |
   <a href="https://gitlab.com/BasGame1/gta2pc/docs/status.md">Status</a> |
-  <a href="https://gitlab.com/BasGame1/gta2pc/docs/objectives.md">Objectives</a> |
   <a href="https://t.me/PixelifyNext">Telegram</a>
 </p>
 
