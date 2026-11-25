@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a>
-  <img src="https://gitlab.com/BasGame1/gta2pc/assets/leonida.png" alt="Logo" width="500">
+  <img src="leonida.png" alt="Logo" width="500">
 </a>
 </h1>
 <h2 align="center"> <br>
